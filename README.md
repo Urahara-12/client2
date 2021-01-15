@@ -1,6 +1,6 @@
 # JS CLIENT2
 ## How to use
-* ```sh
+ ```sh
 $ git clone http://github.com/urahara-12/client2.git
 $ npm install -g live-server
 $ cd client2
